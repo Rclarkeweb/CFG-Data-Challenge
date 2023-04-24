@@ -1,0 +1,68 @@
+TASK 1: Calculate the total sales for each product 
+"                Product Name  Total Sales
+0                   T-shirts       219.80
+1               Levi's Jeans      1079.82
+2               Dyson Vacuum      1199.98
+3                 Sunglasses       318.30
+4                 Headphones       359.60
+5              Water bottles       311.08
+6                  Backpacks       512.73
+7                       Hats      1049.65
+8                      Books       215.82
+9                       Toys       521.71
+10                    Apples       351.68
+11                Lawn mower      2975.76
+12            Samsung Galaxy      4499.95
+13                 iPhone 13      3899.97
+14        Lululemon Yoga Mat      1349.85
+15            Picture frames        83.98
+16                   Candles        66.31
+17               Apple Watch      1599.96
+18         Oakley Sunglasses      1799.88
+19           Fitbit Charge 5      1349.91
+20              Harry Potter       399.75
+21               Phone cases       301.00
+22           Nest Thermostat      1499.94
+23        Sony PlayStation 5      1999.96
+24      Michael Kors Handbag      2799.92
+25             Ninja Blender      1299.90
+26      Under Armour T-Shirt       899.70
+27           Amazon Echo Dot       799.80
+28          Patagonia Fleece       719.94
+29     Schwinn Exercise Bike      1499.97
+30  Cuisinart Food Processor       799.96
+31      iRobot Roomba Vacuum       799.98
+32            Sonos Soundbar       799.99"
+
+TASK 2: Determine the average sale price for each product category 
+"Category
+Accessories     97.39
+Clothing        55.24
+Electronics    495.12
+Fitness        246.66
+Food            10.99
+Home           416.66
+Home decor      22.74
+Kitchen        164.99
+Media           13.99
+Outdoor        123.99
+Toys            17.99
+Name: Sale Price, dtype: float64"
+
+TASK 3: Identify the month with the highest sales and the month with the lowest sales 
+Month with the Highest Sales 
+"Month
+February     6499.66
+Name: Total Sales, dtype: float64"
+
+Month with the Lowest Sales 
+"Month
+October    359.6
+Name: Total Sales, dtype: float64"
+
+TASK 4: Determine which customers made the most purchases and how much they spent in total 
+"Customer Name
+Mark Johnson       1312.03
+Jane Doe           1249.98
+Elizabeth Brown    1049.98
+Name: Sale Price, dtype: float64"
